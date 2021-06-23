@@ -12,7 +12,7 @@ import {
 
 import {
   ViroARSceneNavigator
-} from 'react-viro';
+} from '@viro-community/react-viro';
 
 import renderIf from './js/helpers/renderIf';
 var InitialARScene = require('./js/ARHitTestSample');

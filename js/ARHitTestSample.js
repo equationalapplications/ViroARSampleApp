@@ -19,7 +19,7 @@ import {
   ViroSpotLight,
   Viro3DObject,
   ViroAnimations,
-} from 'react-viro';
+} from '@viro-community/react-viro';
 
 import TimerMixin from 'react-timer-mixin';
 import PropTypes from 'prop-types';
@@ -40,7 +40,7 @@ var ARHitTestSample = createReactClass({
 
   render: function() {
     return (
-      <ViroARScene ref="arscene" onTrackingInitialized={this._onTrackInit}>
+      <ViroARScene ref="arscene" onTrackingUpdate={this._onTrackInit}>
           <ViroAmbientLight color="#ffffff" intensity={200}/>
           {this._getModel()}
       </ViroARScene>
