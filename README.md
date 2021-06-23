@@ -1,7 +1,10 @@
 # ViroARSampleApp updated for @viro-community/react-viro
 
-A Viro Community React-Viro sample AR app for iOS and Android that demonstrates placing, rotating and dragging objects in AR. 
+A @viro-community/react-viro ViroReact sample AR app for iOS and Android that demonstrates placing, rotating and dragging objects in AR.
 
+https://www.npmjs.com/package/@viro-community/react-viro
+
+ViroReact is a library for developers to rapidly build augmented reality (AR) and virtual reality (VR) experiences. Developers write in React Native, and Viro runs their code natively across all mobile VR (including Google Daydream, Samsung Gear VR, and Google Cardboard for iOS and Android) and AR (iOS ARKit and Android ARCore) platforms. ViroReact was originaly developed by the Viro Media company, but was open sourced in 2019.
 
 ## Installation
 
