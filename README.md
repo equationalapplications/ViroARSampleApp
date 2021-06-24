@@ -15,3 +15,7 @@ ViroReact is a library for developers to rapidly build augmented reality (AR) an
 5. `npx react-native run-android` or `npx react-native run-ios`
 
 NOTE: The variant arguments are not needed for debug or release.
+
+
+# Need help?
+[Reach us in Discord.](https://discord.gg/YfxDBGTxvG)
