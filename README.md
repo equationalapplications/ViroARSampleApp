@@ -1,6 +1,6 @@
 # ViroARSampleApp updated for @viro-community/react-viro
 
-A @viro-community/react-viro ViroReact sample AR app for iOS and Android that demonstrates placing, rotating and dragging objects in AR.
+A @viro-community/react-viro ViroReact sample augmented reality app for iOS and Android that demonstrates placing, rotating and dragging objects in AR.
 
 https://www.npmjs.com/package/@viro-community/react-viro
 
